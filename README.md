@@ -3,7 +3,7 @@
     <img alt = "Lifafa Logo" width="250" src = "./src/assets/lifafa.png">
   </a>
 </p>
-<h1 align="center" >Lifafa : Redifining Gifting </h1>
+<h1 align="center" >Batua: Redifining Gifting </h1>
 
   
 </p>
