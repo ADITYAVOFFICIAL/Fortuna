@@ -18,8 +18,8 @@ const LandingPage = () => {
             <div className="grid md:grid-cols-2 gap-y-20 md:gap-y-0">
                 <div className="h-full flex gap-8 flex-col justify-center text-[Montserrat] order-2">
                     <div className="">
-                        <h1 data-aos="fade-up" className="text-[#7b3fe4] uppercase text-5xl font-[Oswald] leading-normal tracking-widest">Create your Red <br /> Envelope</h1>
-                        <p data-aos="fade-up" data-aos-delay={100} className="text-[#7b3fe4] my-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+                        <h1 data-aos="fade-up" className="text-[#bea0f0] uppercase text-5xl font-[Oswald] leading-normal tracking-widest">Create your Red <br /> Envelope</h1>
+                        <p data-aos="fade-up" data-aos-delay={100} className="text-[#7b3fe4] my-6">A project inspired by the red envelope tradition, but elevated to the realm of NFTs, developed for the Layers 2.0 hackathon.</p>
                     </div>
                     <div>
                         <Link to={'/create-link'}>

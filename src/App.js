@@ -3,6 +3,7 @@ import { Route, Routes } from 'react-router-dom';
 import ClaimReward from './pages/claim';
 import LandingPage from './pages/landing';
 import Navbar from './components/navbar';
+import Footer from './components/footer';
 import CreateLink from './pages/create-link';
 import RedeemLanding from './pages/redeem-input';
 import '@rainbow-me/rainbowkit/styles.css';
@@ -58,7 +59,9 @@ function App() {
           </Routes>
         </div>
       </RainbowKitProvider>
+      <Footer/>
     </WagmiConfig>
+    
   </>);
 }
 
