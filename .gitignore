@@ -1,0 +1,68 @@
+# Node Modules
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.zip
+*.tgz
+*.tar.gz
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Cache and logs
+.cache/
+log/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Miscellaneous
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+pnp.js
+
+# Dependency directory
+/.pnp
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Next.js build directory
+/.next/
+
+# Nuxt.js build directory
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+ 
+# Meteor files
+.meteor/local
+/.meteor/local
+
+# Typescript output directory
+/out/
+
+# Parcel cache directory
+.cache/
+
+# Next.js build directory
+.next/
