@@ -133,7 +133,7 @@ const MyNft = () => {
     }
     return (
         <>
-            <h1 className="text-[#C9FF28] font-semibold text-xl uppercase">My NFT</h1>
+            <h1 className="text-[#7b3fe4] font-semibold text-xl uppercase">My NFT</h1>
             <div className="my-6">
                 <div className="mx-18">
                     <form onSubmit={handleFormSubmit}>
