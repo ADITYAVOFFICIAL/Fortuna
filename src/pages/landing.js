@@ -1,6 +1,7 @@
 import heroImg from '../assets/hero-img.png';
 import { AiOutlineArrowRight } from "react-icons/ai";
 import AOS from "aos";
+import batGif from '../assets/bat.gif';
 import 'aos/dist/aos.css';
 import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
@@ -32,6 +33,16 @@ const LandingPage = () => {
                     <img data-aos="fade-left" data-aos-delay={100} src={heroImg} className="md:w-[60%] w-[75%] h-auto" />
                 </div>
             </div>
+            <img 
+  src={batGif} 
+  alt="Bat" 
+  className="absolute bottom-0 left-0 w-20 h-auto animate-bat" 
+  style={{ 
+    animation: 'moveBat 6s linear infinite',
+    width: 'auto',  // Reset width to 'auto' to maintain the original size
+    height: '120px'  // Set height to maintain aspect ratio
+  }} 
+/>
         </>
     )
 }

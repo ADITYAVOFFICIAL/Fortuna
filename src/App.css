@@ -88,3 +88,11 @@ button[disabled] {
   color: black;
 }
 
+@keyframes moveBat {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(100vw - 20px)); /* Subtracting the image width to ensure it moves completely */
+  }
+}
