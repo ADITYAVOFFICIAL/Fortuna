@@ -11,8 +11,8 @@ body {
 }
 
 .ant-btn.ant-btn-primary {
-  background: #7b3fe4 !important;
-  color: #fff !important;
+  background: #ffde59 !important;
+  color: black !important;
 }
 
 .ant-btn.ant-btn-primary.ant-btn-dangerous {
@@ -68,8 +68,8 @@ button[disabled] {
 }
 
 .submenu-active {
-  border-right: 2px solid #7b3fe4;
-  color: #7b3fe4;
+  border-right: 2px solid #ffde59;
+  color: #ffde59;
   background-color: #ebf1ff;
 }
 
@@ -84,7 +84,7 @@ button[disabled] {
 }
 
 .ant-btn-reclaim-btn {
-  background: #7b3fe4 !important;
+  background: #ffde59 !important;
   color: black;
 }
 

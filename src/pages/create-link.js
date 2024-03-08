@@ -241,7 +241,7 @@ const CreateLink = () => {
             <div className="font-[Montserrat] mx-6">
                 <form className="flex gap-8 flex-col" onSubmit={handleFormSubmit}>
                     <div data-aos-delay={100} data-aos="fade-up" className="flex flex-col gap-2">
-                        <label className="text-[#7b3fe4] font-semibold text-sm uppercase">Enter funds to be added *</label>
+                        <label className="text-[#ffde59] font-semibold text-sm uppercase">Enter funds to be added *</label>
                         <input type="number" value={funds} onChange={e => setFunds(e.target.value)} className="bg-white px-2 py-3 rounded-md w-full focus:outline-none font-[Inter] font-semibold" />
                     </div>
                     <ConfigProvider
@@ -250,7 +250,7 @@ const CreateLink = () => {
                         }}
                     >
                         <div data-aos-delay={200} data-aos="fade-up" className="flex flex-col gap-2">
-                            <label className="text-[#7b3fe4] font-semibold text-sm uppercase">Time Limit *</label>
+                            <label className="text-[#ffde59] font-semibold text-sm uppercase">Time Limit *</label>
                             <div className="flex flex-col md:flex-row items-center gap-2">
                                 <DatePicker
                                     className="bg-white px-2 py-3 rounded-md w-full focus:outline-none font-[Inter] font-semibold"
@@ -274,7 +274,7 @@ const CreateLink = () => {
                         </div>
                     </ConfigProvider>
                     <div data-aos-delay={300} data-aos="fade-up" className="flex flex-col gap-2">
-                        <label className="text-[#7b3fe4] font-semibold text-sm w-full flex justify-between items-center">
+                        <label className="text-[#ffde59] font-semibold text-sm w-full flex justify-between items-center">
                             <div>NFTs ADDRESS <small>(optional)</small></div>
                             <div onClick={handleGetNFTAddress} className="text-sm cursor-pointer hover:underline underline-offset-4">Get your NFT Address</div>
                         </label>
@@ -293,7 +293,7 @@ const CreateLink = () => {
                                 cancelText="No"
                                 placement="top"
                             >
-                                <button type="button" className="bg-[#7b3fe4] rounded-sm flex gap-2 px-3 py-2 items-center font-semibold">Generate Link <AiOutlineArrowRight className="text-xl" /></button>
+                                <button type="button" className="bg-[#ffde59] rounded-sm flex gap-2 px-3 py-2 items-center font-semibold">Generate Link <AiOutlineArrowRight className="text-xl" /></button>
                             </Popconfirm>
                         </ConfigProvider>
                     </div>

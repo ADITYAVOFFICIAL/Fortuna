@@ -45,11 +45,11 @@ const RedeemLanding = () => {
         <>
             <form onSubmit={handleFormSubmit}>
                 <div data-aos-delay={100} data-aos="fade-up" className="flex flex-col gap-2">
-                    <label className="text-[#7b3fe4] font-semibold text-sm uppercase">Enter your redeem id *</label>
+                    <label className="text-[#ffde59] font-semibold text-sm uppercase">Enter your redeem id *</label>
                     <input type="text" value={redeemId} onChange={e => setRedeemId(e.target.value)} className="bg-white px-2 py-3 rounded-md w-full focus:outline-none font-[Inter] font-semibold" />
                 </div>
                 <div className="my-4 flex ">
-                    <button data-aos-delay={200} data-aos="fade-up" className="bg-[#7b3fe4] rounded-sm flex gap-2 px-3 py-2 items-center font-semibold">Redeem <AiOutlineArrowRight className="text-xl" /></button>
+                    <button data-aos-delay={200} data-aos="fade-up" className="bg-[#ffde59] rounded-xl flex gap-2 px-3 py-2 items-center font-semibold">Redeem <AiOutlineArrowRight className="text-xl" /></button>
                 </div>
             </form>
         </>
