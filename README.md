@@ -3,11 +3,11 @@
     <img alt = "Lifafa Logo" width="250" src = "./src/assets/lifafa.png">
   </a>
 </p>
-<h1 align="center" >Batua: Redifining Gifting </h1>
+<h1 align="center" >Fortuna: Redifining Gifting </h1>
 
   
 </p>
-Batua, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Lifafa allows users to create, share, and experience the joy of giving in the digital age. With Lifafa, you can personalize your gifts, add an element of surprise, and enhance the entire gifting experience by incorporating various digital assets, all in one secure and user-friendly platform
+Fortuna, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Lifafa allows users to create, share, and experience the joy of giving in the digital age. With Lifafa, you can personalize your gifts, add an element of surprise, and enhance the entire gifting experience by incorporating various digital assets, all in one secure and user-friendly platform
 <br>
 
 ## ✨ Features
