@@ -43,15 +43,6 @@ Personalization: Senders can personalize the red envelope by specifying its purp
 Additional Gifting Features: Fortuna may include additional features such as virtual spinner games and leaderboards to enhance the gifting experience.
 
 <br>
-
-## 📷 Screenshots
-<img src="./img/6.png">
-<img src="./img/1.jpeg">
-<img src="./img/2.jpeg">
-<img src="./img/3.jpeg">
-<img src="./img/4.jpeg">
-<img src="./img/5.gif">
-
 ## ✅ How Fortuna Works
 
 Fortuna, our innovative digital red envelope platform, introduces an engaging and seamless process for digital gifting. It commences with the sender depositing a specified total value of digital assets, which can encompass cryptocurrencies, NFTs, and an array of digital assets, forming the foundation of a dynamic gift pool. Adding a personal touch to the gifting experience, the sender customizes the gift by specifying its purpose, and Fortuna generates a unique link associated with the gift pool, ensuring each gift is distinct and memorable. The sender shares this unique link with the intended recipients, granting them access to the gift pool, which may be further secured through the optional use of a non-fungible token (NFT) to add an extra layer of security and exclusivity. Recipients, upon receiving the unique link, are drawn into the immersive Fortuna platform, unveiling a world of digital surprises. The heart of the experience lies in the revelation of randomized prizes within the gift pool, injecting an element of unpredictability and excitement, enhancing the joy of gifting. The process for recipients to claim their prizes is streamlined through the Fortuna platform, featuring a user-friendly "claim" button for a hassle-free experience. Moreover, Fortuna fosters a spirit of generosity as recipients have the choice to contribute additional digital assets to the gift pool, amplifying the overall value of the gift and enabling a ripple effect of generosity as the gift continues to circulate among others. This combination of customization, security, engagement, and surprise ensures Fortuna is at the forefront of modern digital gifting, revitalizing the tradition of gift-giving in the digital age.
@@ -64,9 +55,4 @@ Fortuna, our innovative digital red envelope platform, introduces an engaging an
 ## 🌱 Contributing
 
 Developers and emergency services professionals who are interested in enhancing the Fortuna system are encouraged to contribute. To get involved, simply fork the repository and submit a pull request with your proposed changes. We value your contributions and appreciate your efforts in making Fortuna even more effective in emergency situations. Together, we can continually improve and optimize the system to better serve the needs of emergency services and the communities they protect.
-<br>
-
-## ©️ License
-Fortuna is licensed under the MPL-2.0 License. See <a href="LICENSE.txt">LICENSE</a> for details.
-
 <br>
