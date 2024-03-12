@@ -233,13 +233,13 @@ const ClaimReward = () => {
                     </div>
                 </div>
                 {
-                    status != 'success' && <div className="text-center text-[#C9FF28] text-base mt-[20px] font-bold animate__animated animate__fadeInUp">{status}</div>
+                    status != 'success' && <div className="text-center text-[#ee8650] text-base mt-[20px] font-bold animate__animated animate__fadeInUp">{status}</div>
                 }
 
                 <div className="flex flex-col gap-2 justify-end items-end">
                     {/* <Button onClick={e => navigate('/')} type="primary">Add 💸 to this 🧧</Button> */}
-                    <button onClick={e => setAddAmountModalVisibility(true)} data-aos-delay={200} data-aos="fade-up" className="border-[#c9ff28] border-[2px] text-white text-lg rounded-sm flex gap-2 px-3 py-2 items-center font-semibold">Add 💸 to this 🧧</button>
-                    <p onClick={e => navigate('/')} className="cursor-pointer text-[#c9ff28]">Create your own 🧧</p>
+                    <button onClick={e => setAddAmountModalVisibility(true)} data-aos-delay={200} data-aos="fade-up" className="border-[#ee8650] border-[2px] text-white text-lg rounded-sm flex gap-2 px-3 py-2 items-center font-semibold">Add 💸 to this 🧧</button>
+                    <p onClick={e => navigate('/')} className="cursor-pointer text-[#ee8650]">Create your own 🧧</p>
                 </div>
                 <ConfigProvider
                     theme={{
