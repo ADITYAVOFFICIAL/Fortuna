@@ -11,8 +11,8 @@ body {
 }
 
 .ant-btn.ant-btn-primary {
-  background: #1677ff !important;
-  color: #fff !important;
+  background: #ee8650 !important;
+  color: black !important;
 }
 
 .ant-btn.ant-btn-primary.ant-btn-dangerous {
@@ -68,8 +68,8 @@ button[disabled] {
 }
 
 .submenu-active {
-  border-right: 2px solid #3e79f7;
-  color: #3e79f7;
+  border-right: 2px solid #ee8650;
+  color: #ee8650;
   background-color: #ebf1ff;
 }
 
@@ -84,8 +84,58 @@ button[disabled] {
 }
 
 .ant-btn-reclaim-btn {
-  background: #c9ff28 !important;
+  background: #ee8650 !important;
   color: black;
 }
 
+@keyframes moveBat {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(100vw - 20px)); /* Subtracting the image width to ensure it moves completely */
+  }
+}
+@keyframes rotateClockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.rotating-image {
+  animation: rotateClockwise 10s linear infinite; /* Adjust the duration and timing function as needed */
+}
+::selection {
+  background-color: #ee8650; /* Change to the desired color */
+  color: #fff; /* Change to the desired text color */
+}
+.rowdies-regular {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.rowdies-bold {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.glow-text {
+  color: #ee8650;
+  font-size: 2rem; /* Adjust size as needed */
+  font-weight: bold;
+  font-family: Oswald;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  animation: glow 0.9s infinite alternate; /* Define glow animation */
+}
 
+@keyframes glow {
+  from {
+      text-shadow: 0 0 10px #ee8650, 0 0 20px #ff6100, 0 0 30px #ff2c00, 0 0 40px #ff0000, 0 0 50px #ff6100, 0 0 60px #ff2c00, 0 0 70px #ff0000;
+  }
+  to {
+      text-shadow: 0 0 20px #ee8650, 0 0 30px #ff6100, 0 0 40px #ff2c00, 0 0 50px #ff0000, 0 0 60px #ff6100, 0 0 70px #ff2c00, 0 0 80px #ff0000;
+  }
+}

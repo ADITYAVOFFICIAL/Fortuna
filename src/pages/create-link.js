@@ -241,7 +241,7 @@ const CreateLink = () => {
             <div className="font-[Montserrat] mx-6">
                 <form className="flex gap-8 flex-col" onSubmit={handleFormSubmit}>
                     <div data-aos-delay={100} data-aos="fade-up" className="flex flex-col gap-2">
-                        <label className="text-[#C9FF28] font-semibold text-sm uppercase">Enter funds to be added *</label>
+                        <label className="text-[#ee8650] font-[Oswald] font-semibold text-sm uppercase">Enter funds to be added *</label>
                         <input type="number" value={funds} onChange={e => setFunds(e.target.value)} className="bg-white px-2 py-3 rounded-md w-full focus:outline-none font-[Inter] font-semibold" />
                     </div>
                     <ConfigProvider
@@ -250,7 +250,7 @@ const CreateLink = () => {
                         }}
                     >
                         <div data-aos-delay={200} data-aos="fade-up" className="flex flex-col gap-2">
-                            <label className="text-[#C9FF28] font-semibold text-sm uppercase">Time Limit *</label>
+                            <label className="text-[#ee8650] font-[Oswald] font-semibold text-sm uppercase">Time Limit *</label>
                             <div className="flex flex-col md:flex-row items-center gap-2">
                                 <DatePicker
                                     className="bg-white px-2 py-3 rounded-md w-full focus:outline-none font-[Inter] font-semibold"
@@ -274,7 +274,7 @@ const CreateLink = () => {
                         </div>
                     </ConfigProvider>
                     <div data-aos-delay={300} data-aos="fade-up" className="flex flex-col gap-2">
-                        <label className="text-[#C9FF28] font-semibold text-sm w-full flex justify-between items-center">
+                        <label className="text-[#ee8650] font-[Oswald] font-semibold text-sm w-full flex justify-between items-center">
                             <div>NFTs ADDRESS <small>(optional)</small></div>
                             <div onClick={handleGetNFTAddress} className="text-sm cursor-pointer hover:underline underline-offset-4">Get your NFT Address</div>
                         </label>
@@ -293,13 +293,13 @@ const CreateLink = () => {
                                 cancelText="No"
                                 placement="top"
                             >
-                                <button type="button" className="bg-[#c9ff28] rounded-sm flex gap-2 px-3 py-2 items-center font-semibold">Generate Link <AiOutlineArrowRight className="text-xl" /></button>
+                                <button type="button" className="bg-[#ee8650] font-[Oswald] rounded-lg flex gap-2 px-3 py-2 items-center font-semibold tracking-wide">Generate Link <AiOutlineArrowRight className="text-xl" /></button>
                             </Popconfirm>
                         </ConfigProvider>
                     </div>
                 </form>
                 <div className="my-4">
-                    <h1 data-aos-delay={500} data-aos="fade-up" className="text-white font-semibold flex items-center text-xl gap-1 uppercase"><AiOutlineFieldTime className="text-2xl" /> My Envelopes</h1>
+                    <h1 data-aos-delay={500} data-aos="fade-up" className="text-white font-semibold flex rowdies-regular items-center text-xl gap-1 uppercase"><AiOutlineFieldTime className="text-2xl" /> My Envelopes</h1>
                     <div data-aos-delay={600} data-aos="fade-up">
                         <Spin spinning={historyLoading}>
                             <CompanyHistoryCard data={history} flagRefresh={loadPageData} />
@@ -328,8 +328,8 @@ const CreateLink = () => {
                             <p className="mx-8 font-semibold my-4">The link is generated and your red envelope is ready to be shared.</p>
                         </div>
                         <div className="grid grid-cols-2">
-                            <div onClick={openSystemShareMenu} className="flex justify-center items-center bg-[#616f39] p-3 cursor-pointer text-white font-semibold">Share</div>
-                            <div onClick={copytoclipboard} className="flex justify-center items-center bg-[#a7d129] p-3 cursor-pointer text-white font-semibold">Copy</div>
+                            <div onClick={openSystemShareMenu} className="flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold">Share</div>
+                            <div onClick={copytoclipboard} className="flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold">Copy</div>
                         </div>
                     </div>
                 </Modal>

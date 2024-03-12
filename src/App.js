@@ -3,12 +3,14 @@ import { Route, Routes } from 'react-router-dom';
 import ClaimReward from './pages/claim';
 import LandingPage from './pages/landing';
 import Navbar from './components/navbar';
+import Footer from './components/footer';
 import CreateLink from './pages/create-link';
 import RedeemLanding from './pages/redeem-input';
 import '@rainbow-me/rainbowkit/styles.css';
 import {
   getDefaultWallets,
   RainbowKitProvider,
+  darkTheme,
 } from '@rainbow-me/rainbowkit';
 import { configureChains, createConfig, WagmiConfig } from 'wagmi';
 import { avalancheFuji} from 'wagmi/chains';
@@ -26,7 +28,7 @@ const { chains, publicClient } = configureChains(
 
 const { connectors } = getDefaultWallets({
   appName: 'My RainbowKit App',
-  projectId: 'YOUR_PROJECT_ID',
+  projectId: process.env.REACT_APP_PROJECT_ID, // Use the project ID from .env
   chains
 });
 
@@ -35,11 +37,17 @@ const wagmiConfig = createConfig({
   connectors,
   publicClient
 })
-
+const customDarkTheme = darkTheme({ // Define custom dark theme
+  accentColor: '#ee8650',
+  accentColorForeground: 'black',
+  borderRadius: 'medium',
+  fontStack: 'system',
+  overlayBlur: 'small',
+});
 function App() {
   return (<>
     <WagmiConfig config={wagmiConfig}>
-      <RainbowKitProvider chains={chains}>
+    <RainbowKitProvider chains={chains} theme={customDarkTheme}>
         <Navbar />
         <div className="my-8 md:mx-20 mx-8">
           <Routes>
@@ -51,7 +59,9 @@ function App() {
           </Routes>
         </div>
       </RainbowKitProvider>
+      <Footer/>
     </WagmiConfig>
+    
   </>);
 }
 
