@@ -328,9 +328,15 @@ const CreateLink = () => {
                             <p className="mx-8 font-semibold my-4">The link is generated and your Gift Box is ready to be shared.</p>
                         </div>
                         <div className="grid grid-cols-2">
-                            <div onClick={openSystemShareMenu} className="flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold">Share</div>
-                            <div onClick={copytoclipboard} className="flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold">Copy</div>
-                        </div>
+    <div onClick={openSystemShareMenu} className="relative flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold" style={{borderBottomLeftRadius: "8px"}}>
+        Share
+        {/* Add a separating line */}
+        <div className="absolute inset-y-0 right-0 w-0.5 bg-black"></div>
+    </div>
+    <div onClick={copytoclipboard} className="flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold" style={{borderBottomRightRadius: "8px"}}>
+        Copy
+    </div>
+</div>
                     </div>
                 </Modal>
             </ConfigProvider>
