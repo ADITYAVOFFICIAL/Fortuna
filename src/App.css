@@ -136,6 +136,7 @@ button[disabled] {
   animation: glow 1s infinite alternate; /* Define glow animation */
 }
 
+
 @keyframes glow {
   from {
       text-shadow: 0 0 10px #ee8650, 0 0 20px #ff6100, 0 0 30px #ff2c00, 0 0 40px #ff0000, 0 0 50px #ff6100, 0 0 60px #ff2c00, 0 0 70px #ff0000;
