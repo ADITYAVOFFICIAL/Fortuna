@@ -21,7 +21,7 @@
 
 .front {
     position: absolute;
-    border-right: 130px solid #d8072e;
+    border-right: 130px solid #e56b2a;
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     height: 0;
@@ -34,7 +34,7 @@
 .front:before {
     content: "";
     position: absolute;
-    border-left: 130px solid #d8072e;
+    border-left: 130px solid #e56b2a;
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     height: 0;
@@ -46,7 +46,7 @@
 .front:after {
     content: "";
     position: absolute;
-    border-bottom: 105px solid #e50530;
+    border-bottom: 105px solid #ee8650;
     border-left: 125px solid transparent;
     border-right: 125px solid transparent;
     height: 0;
@@ -57,7 +57,7 @@
 
 .top {
     position: absolute;
-    border-top: 105px solid #e50530;
+    border-top: 105px solid #ee8650;
     border-left: 125px solid transparent;
     border-right: 125px solid transparent;
     height: 0;
