@@ -50,14 +50,14 @@ const CreateLink = () => {
     }, [history.reload.get()])
 
     const backendRequest = async (data = {}) => {
-        return new Promise(async (resolve, reject) => { // {status: '<success || any error message>', link: '<url>'}
+        return new Promise(async (resolve, reject) => {
             const { hash } = await writeContract({
                 address: contract_address,
                 abi: contract_abi,
                 functionName: 'createEnvelope',
                 value: parseEther(data.funds),
                 args: [data.seconds, data.NFTSAddress],
-            })
+            });
             var transaction = await waitForTransaction({
                 hash: hash,
             });
@@ -72,8 +72,9 @@ const CreateLink = () => {
             history.set([]);
             history.reload.set(true);
             backend_fetchHistory();
-        })
-    }
+        });
+    };
+    
 
 
     async function backend_fetchHistory() {
