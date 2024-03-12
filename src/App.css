@@ -145,3 +145,19 @@ button[disabled] {
       text-shadow: 0 0 20px #ee8650, 0 0 30px #ff6100, 0 0 40px #ff2c00, 0 0 50px #ff0000, 0 0 60px #ff6100, 0 0 70px #ff2c00, 0 0 80px #ff0000;
   }
 }
+.glowy {
+  box-shadow: 0 0 25px #ee8650; /* Change the color and size as desired */
+  animation: glow1 1s ease-in-out infinite alternate; /* Define the glow animation */
+}
+
+@keyframes glow1 {
+  from {
+    box-shadow: 0 0 10px #ee8650; /* Initial shadow */
+  }
+  to {
+    box-shadow: 0 0 25px #ee8650; /* Final shadow */
+  }
+}
+.logo{
+  width: 500px !important;
+}

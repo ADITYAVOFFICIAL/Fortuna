@@ -7,6 +7,7 @@ import Footer from './components/footer';
 import CreateLink from './pages/create-link';
 import RedeemLanding from './pages/redeem-input';
 import '@rainbow-me/rainbowkit/styles.css';
+import Teamer from './pages/team';
 import {
   getDefaultWallets,
   RainbowKitProvider,
@@ -56,6 +57,7 @@ function App() {
             <Route path="/redeem/:id?" element={<ClaimReward />} />
             <Route path="/create-link" element={<CreateLink />} />
             <Route path="/my-nft" element={<MyNft />} />
+            <Route path="/team" element={<Teamer />} />
           </Routes>
         </div>
       </RainbowKitProvider>

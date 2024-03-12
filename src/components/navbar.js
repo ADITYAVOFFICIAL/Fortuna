@@ -37,7 +37,7 @@ const Navbar = () => {
             <div className="grid grid-cols-12 my-10 md:mx-16 mx-8 font-[Montserrat]">
                 <div className="col-span-4 flex gap-12 items-center justify-between">
                     <h1 className="text-white text-xl font-[Inter]">
-                        <Link to={'/'}><img src={logo} className="" /></Link>
+                        <Link to={'/'}><img src={logo} style={{ transform: 'scale(1.8)' }} className="logo" /></Link>
                     </h1>
                     <Link to={'/redeem'}><span className="text-[#ee8650] font-[Oswald] hidden md:block font-semibold uppercase">Redeem</span></Link>
                     <Link to={'/create-link'}><span className="text-[#ee8650] font-[Oswald] hidden md:block font-semibold uppercase">Create</span></Link>
@@ -56,6 +56,7 @@ const Navbar = () => {
                             </span>
                         </Popover>
                     </div>
+                    <Link to={'/team'}><span className="text-[#ee8650] font-[Oswald] hidden md:block font-semibold uppercase">TEAM</span></Link>
                 </div>
                 <div className="col-span-5"></div>
                 <div className="col-span-3 flex items-center justify-end text-[#ee8650] text-sm md:text-base">
