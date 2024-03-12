@@ -293,7 +293,7 @@ const CreateLink = () => {
                                 cancelText="No"
                                 placement="top"
                             >
-                                <button type="button" className="bg-[#ee8650] font-[Oswald] rounded-lg flex gap-2 px-3 py-2 items-center font-semibold tracking-wide">Generate Link <AiOutlineArrowRight className="text-xl" /></button>
+                                <button type="button" className="glow-button bg-[#ee8650] font-[Oswald] rounded-lg flex gap-2 px-3 py-2 items-center font-semibold tracking-wide">Generate Link <AiOutlineArrowRight className="text-xl" /></button>
                             </Popconfirm>
                         </ConfigProvider>
                     </div>
@@ -323,9 +323,9 @@ const CreateLink = () => {
                     <div className="pt-4">
                         <div className="flex items-center justify-center flex-col h-full my-6">
                             <div id="qr-code">
-                                <QRCode size={170} value={share_url} color="#c9ff28" bgColor="#0b0a0a" />
+                                <QRCode size={170} value={share_url} color="#ee8650" bgColor="#0b0a0a" />
                             </div>
-                            <p className="mx-8 font-semibold my-4">The link is generated and your red envelope is ready to be shared.</p>
+                            <p className="mx-8 font-semibold my-4">The link is generated and your Gift Box is ready to be shared.</p>
                         </div>
                         <div className="grid grid-cols-2">
                             <div onClick={openSystemShareMenu} className="flex justify-center items-center bg-[#ee8650] p-3 cursor-pointer text-white font-semibold">Share</div>
