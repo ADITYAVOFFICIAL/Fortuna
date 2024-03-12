@@ -193,8 +193,8 @@ const CreateLink = () => {
     const openSystemShareMenu = () => {
         if (navigator.share) {
             navigator.share({
-                title: 'Red Envelope',
-                text: 'Red Envelope',
+                title: 'GiftBox',
+                text: 'GiftBox',
                 url: share_url
             }).then(() => {
                 message.success('Shared successfully');
@@ -299,7 +299,7 @@ const CreateLink = () => {
                     </div>
                 </form>
                 <div className="my-4">
-                    <h1 data-aos-delay={500} data-aos="fade-up" className="text-white font-semibold flex rowdies-regular items-center text-xl gap-1 uppercase"><AiOutlineFieldTime className="text-2xl" /> My Envelopes</h1>
+                    <h1 data-aos-delay={500} data-aos="fade-up" className="text-white font-semibold flex rowdies-regular items-center text-xl gap-1 uppercase"><AiOutlineFieldTime className="text-2xl" /> My GiftBoxes</h1>
                     <div data-aos-delay={600} data-aos="fade-up">
                         <Spin spinning={historyLoading}>
                             <CompanyHistoryCard data={history} flagRefresh={loadPageData} />
