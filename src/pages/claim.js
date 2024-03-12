@@ -1,6 +1,6 @@
 import { Button, ConfigProvider, Modal, theme } from "antd";
 import { useContext, useEffect, useRef, useState } from "react";
-import '../css-addons/envelope.css'
+import '../css-addons/giftbox.css'
 import 'animate.css'
 import { GlobalContext } from "../contexts/globalContext";
 import ConfettiExplosion from 'react-confetti-explosion';

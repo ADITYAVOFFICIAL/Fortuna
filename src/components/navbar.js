@@ -21,7 +21,7 @@ const Navbar = () => {
     const menu = (
         <Menu>
             <Menu.Item key="0">
-                <Link to={'/redeem'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">Redeem</span></Link>
+                <Link to={'/topnfts'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">top nfts</span></Link>
             </Menu.Item>
             <Menu.Item key="1">
                 <Link to={'/create-link'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">Create</span></Link>
