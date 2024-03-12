@@ -14,7 +14,7 @@ import {
   darkTheme,
 } from '@rainbow-me/rainbowkit';
 import { configureChains, createConfig, WagmiConfig } from 'wagmi';
-import { avalancheFuji} from 'wagmi/chains';
+import { avalancheFuji } from 'wagmi/chains';
 import { alchemyProvider } from 'wagmi/providers/alchemy';
 import { publicProvider } from 'wagmi/providers/public';
 import MyNft from './pages/my-nft';
@@ -37,18 +37,20 @@ const wagmiConfig = createConfig({
   autoConnect: true,
   connectors,
   publicClient
-})
-const customDarkTheme = darkTheme({ // Define custom dark theme
+});
+
+const customDarkTheme = darkTheme({
   accentColor: '#ee8650',
   accentColorForeground: 'black',
   borderRadius: 'medium',
   fontStack: 'system',
   overlayBlur: 'small',
 });
+
 function App() {
-  return (<>
+  return (
     <WagmiConfig config={wagmiConfig}>
-    <RainbowKitProvider chains={chains} theme={customDarkTheme}>
+      <RainbowKitProvider chains={chains} theme={customDarkTheme}>
         <Navbar />
         <div className="my-8 md:mx-20 mx-8">
           <Routes>
@@ -61,10 +63,9 @@ function App() {
           </Routes>
         </div>
       </RainbowKitProvider>
-      <Footer/>
+      <Footer />
     </WagmiConfig>
-    
-  </>);
+  );
 }
 
 export default App;
