@@ -3,7 +3,7 @@ import { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu, AiOutlineProfile, AiOutlineUser } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { ConnectButton } from '@rainbow-me/rainbowkit';
-import logo from '../assets/Fortuna.png'
+import logo from '../assets/lifafa.png'
 
 const Navbar = () => {
     const [isMenuOpen, setMenuOpen] = useState(false);
@@ -15,12 +15,12 @@ const Navbar = () => {
                     <h1 className="text-white text-xl font-[Inter]">
                         <Link to={'/'}><img src={logo} className="" /></Link>
                     </h1>
-                    <Link to={'/redeem'}><span className="text-[#ffde59] hidden md:block font-semibold uppercase">Redeem</span></Link>
-                    <Link to={'/create-link'}><span className="text-[#ffde59] hidden md:block font-semibold uppercase">Create</span></Link>
-                    <Link to={'/my-nft'}><span className="text-[#ffde59] hidden md:block font-semibold uppercase">My&nbsp;NFT</span></Link>
+                    <Link to={'/redeem'}><span className="text-[#C9FF28] hidden md:block font-semibold uppercase">Redeem</span></Link>
+                    <Link to={'/create-link'}><span className="text-[#C9FF28] hidden md:block font-semibold uppercase">Create</span></Link>
+                    <Link to={'/my-nft'}><span className="text-[#C9FF28] hidden md:block font-semibold uppercase">My&nbsp;NFT</span></Link>
                 </div>
                 <div className="col-span-5"></div>
-                <div className="col-span-3 flex items-center justify-end text-[#ffde59] text-sm md:text-base">
+                <div className="col-span-3 flex items-center justify-end text-[#C9FF28] text-sm md:text-base">
                     <div className="flex items-center gap-2 font-semibold">
                         {/* LOGIN */}
                         <ConnectButton />
@@ -30,9 +30,9 @@ const Navbar = () => {
                         <Popover
                             content={<div className="w-[250px]" onClick={e => setMenuOpen(false)}>
                                 <div className="flex flex-col gap-3">
-                                    <Link to={'/redeem'}><span className="text-[#ffde59] font-semibold uppercase">Redeem</span></Link>
-                                    <Link to={'/create-link'}><span className="text-[#ffde59] font-semibold uppercase">Create</span></Link>
-                                    <Link to={'/my-nft'}><span className="text-[#ffde59] font-semibold uppercase">My&nbsp;NFT</span></Link>
+                                    <Link to={'/redeem'}><span className="text-[#C9FF28] font-semibold uppercase">Redeem</span></Link>
+                                    <Link to={'/create-link'}><span className="text-[#C9FF28] font-semibold uppercase">Create</span></Link>
+                                    <Link to={'/my-nft'}><span className="text-[#C9FF28] font-semibold uppercase">My&nbsp;NFT</span></Link>
                                     {/* <Link to={''}><span className="text-[#C9FF28] font-semibold uppercase">{tmpAddress.slice(0, 6)}...{tmpAddress.slice(-4)}</span></Link> */}
                                 </div>
                             </div>}
