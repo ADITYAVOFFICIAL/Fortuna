@@ -130,6 +130,16 @@ button[disabled] {
   letter-spacing: 1px;
   animation: glow 0.9s infinite alternate; /* Define glow animation */
 }
+
+.glow-text1 {
+  color: #ee8650;
+  font-size: 2rem; /* Adjust size as needed */
+  font-weight: bold;
+  font-family: Oswald;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  animation: glow 1.2s infinite alternate; /* Define glow animation */
+}
 .glow-button {
   text-transform: uppercase;
   letter-spacing: 1px;
