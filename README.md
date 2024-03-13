@@ -162,11 +162,11 @@ Developers and emergency services professionals who are interested in enhancing 
  ## 💻 Current Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="70" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw3zDTk-jcZSdJ4wAYMp33Cv&ust=1710411455453000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC_8KuB8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="React" height="30" width="70" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img align="center" alt="NODEJS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27728%2Fnode-js&psig=AOvVaw1ZbaS60lqUwHqREMNx7W2l&ust=1710411490853000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDGlryB8YQDFQAAAAAdAAAAABAE">
-  <img align="center" alt="SOLIDITY" height="60" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ASolidity_logo.svg&psig=AOvVaw1DxEC8n2i2ufbPWdsEk4wY&ust=1710411512647000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLif28aB8YQDFQAAAAAdAAAAABAE">
-  <img align="center" alt="Shardeum" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnweb3.io%2Fteams%2Fshardeum%2F&psig=AOvVaw1jyUgIY6OIPk89GaaB1B23&ust=1710411537244000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDCrtKB8YQDFQAAAAAdAAAAABAE">
-  <img align="center" alt="Avalanche" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.diadata.org%2Fweb3-builder-hub%2Ftestnets%2Favalanche-testnets%2F&psig=AOvVaw27t3rHLP2N1ARh7HSqTfq9&ust=1710411559545000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCtlN2B8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="SOLIDITY" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png">
+  <img align="center" alt="Shardeum" height="40" width="40" src="https://lw3-teams-logos.s3.us-east-2.amazonaws.com/Shardeum-team-logo">
+  <img align="center" alt="Avalanche" height="40" width="40" src="https://imagedelivery.net/IEMzXmjRvW0g933AN5ejrA/wwwnotionso-image-cryptologoscc-logos-avalanche-avax-logopng/public">
 </div>
 
  ## Current Contributors 🔻
