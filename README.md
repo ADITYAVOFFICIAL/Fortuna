@@ -211,7 +211,6 @@ Adityasankar Sengupta
 </a>
 </p>
 </td>
-</table>
 <td>
 Vishal Nair
 
