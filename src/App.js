@@ -16,25 +16,37 @@ import {
 } from '@rainbow-me/rainbowkit';
 import { configureChains, createConfig, WagmiConfig } from 'wagmi';
 import { avalancheFuji } from 'wagmi/chains';
-import { shardeumSphinx } from 'wagmi/chains'; 
 import { alchemyProvider } from 'wagmi/providers/alchemy';
 import { publicProvider } from 'wagmi/providers/public';
 import MyNft from './pages/my-nft';
+const shardeumDev = {
+  id: 8082,
+  name: 'Shardeum Dev Network',
+  iconUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnweb3.io%2Fteams%2Fshardeum%2F&psig=AOvVaw2deNnHG8YqRmmiAMx6okQ_&ust=1710398631771000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC22sjR8IQDFQAAAAAdAAAAABAE',
+  iconBackground: '#fff',
+  nativeCurrency: { name: 'Shardeum', symbol: 'SHM', decimals: 18 },
+  rpcUrls: {
+    default: { http: ['https://hackathon.shardeum.org/'] },
+  },
+  blockExplorers: {
+    default: { name: 'Shardeum Explorer', url: 'https://explorer-hackathon.shardeum.org/' },
+  },
+};
 
-// Configure chains with shardeumSphinx
 const { chains, publicClient } = configureChains(
-  [avalancheFuji, shardeumSphinx], // Add shardeumSphinx to the array
+  [avalancheFuji, shardeumDev],
   [
-    alchemyProvider({ apiKey: process.env.ALCHEMY_ID }),
-    publicProvider()
+    publicProvider(), // Public provider first
+    alchemyProvider({ apiKey: "TYREulmFs4AznHiLxk6kAtXA9tEbxFFl" }),
   ]
 );
-
+console.log("Chains:", chains);
+console.log("Public Client:", publicClient);
 // Get default wallets
 const { connectors } = getDefaultWallets({
   appName: 'My RainbowKit App',
   projectId: process.env.REACT_APP_PROJECT_ID,
-  chains
+  chains:[avalancheFuji,shardeumDev]
 });
 
 // Create wagmiConfig

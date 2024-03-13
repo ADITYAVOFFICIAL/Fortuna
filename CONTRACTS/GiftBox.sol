@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
  
 import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
@@ -62,16 +63,18 @@ contract RedEnvelope {
     }
  
     function reclaim(uint256 _id) public {
-        require(!isInvalidID(_id), "Invalid ID");
-        require(msg.sender == envelopes[_id].creator, "Only the creator can reclaim");
-        require(block.timestamp > envelopes[_id].creationTime + envelopes[_id].timeLimit, "Cannot reclaim before time limit");
- 
-        uint256 remainingAmount = envelopes[_id].amount;
-        envelopes[_id].amount = 0;
-        (bool sent, bytes memory data) = payable(msg.sender).call{value: remainingAmount}("");
-        require(sent, "Failed to send Ether");
-        return remainingAmount;
-    } 
+    require(!isInvalidID(_id), "Invalid ID");
+    require(msg.sender == envelopes[_id].creator, "Only the creator can reclaim");
+    require(block.timestamp > envelopes[_id].creationTime + envelopes[_id].timeLimit, "Cannot reclaim before time limit");
+
+    uint256 remainingAmount = envelopes[_id].amount;
+    envelopes[_id].amount = 0;
+    (bool sent, ) = payable(msg.sender).call{value: remainingAmount}("");
+    require(sent, "Failed to send Ether");
+    
+    emit ReclaimCompleted(_id, remainingAmount);
+}
+event ReclaimCompleted(uint256 indexed id, uint256 remainingAmount);
  
     function getRandomAmount(uint256 _max) private view returns (uint256) {
         return uint256(keccak256(abi.encodePacked(block.timestamp))) % _max;
