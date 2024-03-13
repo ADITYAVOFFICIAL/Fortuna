@@ -16,7 +16,7 @@ import {
   darkTheme,
 } from '@rainbow-me/rainbowkit';
 import { configureChains, createConfig, WagmiConfig } from 'wagmi';
-import { avalancheFuji } from 'wagmi/chains';
+import { avalancheFuji, shardeumSphinx } from 'wagmi/chains';
 import { alchemyProvider } from 'wagmi/providers/alchemy';
 import { publicProvider } from 'wagmi/providers/public';
 import MyNft from './pages/my-nft';
@@ -35,7 +35,7 @@ import MyNft from './pages/my-nft';
 // };
 
 const { chains, publicClient } = configureChains(
-  [avalancheFuji],
+  [avalancheFuji,shardeumSphinx],
   [
     publicProvider(), // Public provider first
     alchemyProvider({ apiKey: process.env.ALCHEMY_ID }),
@@ -48,7 +48,7 @@ console.log("Public Client:", publicClient);
 const { connectors } = getDefaultWallets({
   appName: 'My RainbowKit App',
   projectId: process.env.REACT_APP_PROJECT_ID,
-  chains:[avalancheFuji]
+  chains:[avalancheFuji,shardeumSphinx]
 });
 
 // Create wagmiConfig

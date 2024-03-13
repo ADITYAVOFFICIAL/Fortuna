@@ -28,7 +28,7 @@ const LandingPage = () => {
                     </div>
                     <div>
                         <Link to={'/create-link'}>
-                            <button data-aos-delay={200} data-aos="fade-up" className="bg-[#ee8650] font-[Oswald] tracking-wide rounded-md flex gap-2 px-3 py-2 items-center font-semibold">Create Your's Giftbox Now <AiOutlineArrowRight className="text-xl" /></button>
+                            <button data-aos-delay={200} data-aos="fade-up" className="bg-[#ee8650] font-[Oswald] tracking-wide rounded-md flex gap-2 px-3 py-2 items-center font-semibold">Create Your Giftbox Now <AiOutlineArrowRight className="text-xl" /></button>
                         </Link>
                     </div>
                     <div className="my-20 md:my-0">&nbsp;</div>
@@ -50,7 +50,7 @@ const LandingPage = () => {
                 style={{
                     animation: 'moveBat 6s linear infinite',
                     width: 'auto',
-                    height: '120px'
+                    height: '140px'
                 }}
             />
         </div>
