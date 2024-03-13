@@ -18,7 +18,7 @@
     <img alt = "Fortuna Logo" width="250" src = "./src/assets/Fortuna.png">
   </a>
 </p>
-)
+
 
 Fortuna empowers you to:
 
