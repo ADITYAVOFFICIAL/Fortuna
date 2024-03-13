@@ -48,43 +48,28 @@ Fortuna empowers you to:
 3. Link Distribution:
    - Conveniently share the link with your intended recipients.
 
-4. Optional NFT Security:
-   - Enhance security and exclusivity by securing the gift pool with an NFT.
-
-5. Recipient Engagement:
+4. Recipient Engagement:
    - Upon receiving the link, recipients embark on a delightful journey through the Fortuna platform.
 
-6. *Randomized Prizes:*
+5. *Randomized Prizes:*
    - Infuse an element of surprise with the reveal of fun, randomized prizes within the gift pool.
 
-7. Simplified Claiming:
+6. Simplified Claiming:
    - Effortlessly claim prizes with a single click on the user-friendly "claim" button.
 
-8. Contribution Option:
-   - Recipients can contribute additional digital assets, boosting the overall value of the gift and fostering a spirit of generosity.
-
-9. Immutable Ledger:
+7. Immutable Ledger:
    - Maintain transparency with a secure, immutable ledger that tracks all GiftBox transactions, providing a detailed history of distributions.
 
-10. Multi-Asset Support:
-    - Fortuna embraces a diverse range of digital assets, enabling you to gift cryptocurrencies, NFTs, and more.
-
-11. Security & Tamper Resistance:
+8. Security & Tamper Resistance:
     - Rest assured that the platform safeguards the gift pool's security and prevents unauthorized alterations.
 
-12. User-Friendly Interface:
-    - A clean and intuitive interface guarantees a smooth gifting and claiming experience for everyone.
+9. User-Friendly Interface:
+    - A clean and intuitive interface guarantees a smooth gifting and claiming experience for everyone and accessible on mobile devices as well.
 
-13. Mobile Accessibility:
-    - Access and interact with Fortuna on the go through mobile devices.
-
-14. Personalization:
+10. Personalization:
     - Create unique and memorable gifts by specifying the GiftBox's purpose and contents.
 
-15. Enhancing Features (Optional):
-    - Consider incorporating virtual spinner games or leaderboards to further elevate the gifting experience.
-
-16. Top NFTs Display:
+11. Top NFTs Display:
     - Highlighting the top NFTs from the OpenSea marketplace, showcasing the best offerings in the market.
 
 <br>
