@@ -162,8 +162,8 @@ Developers and emergency services professionals who are interested in enhancing 
  ## 💻 Current Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="70" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
-  <img align="center" alt="NODEJS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27728%2Fnode-js&psig=AOvVaw1ZbaS60lqUwHqREMNx7W2l&ust=1710411490853000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDGlryB8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="React" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="NODEJS" height="40" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img align="center" alt="SOLIDITY" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png">
   <img align="center" alt="Shardeum" height="40" width="40" src="https://lw3-teams-logos.s3.us-east-2.amazonaws.com/Shardeum-team-logo">
   <img align="center" alt="Avalanche" height="40" width="40" src="https://imagedelivery.net/IEMzXmjRvW0g933AN5ejrA/wwwnotionso-image-cryptologoscc-logos-avalanche-avax-logopng/public">
