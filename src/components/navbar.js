@@ -24,7 +24,7 @@ const Navbar = () => {
                 <Link to={'/topnfts'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">top nfts</span></Link>
             </Menu.Item>
             <Menu.Item key="1">
-                <Link to={'/create-link'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">Create</span></Link>
+                <Link to={'/chatroom'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">Chat room</span></Link>
             </Menu.Item>
             <Menu.Item key="2">
                 <Link to={'/my-nft'}><span className="text-[#ee8650] font-[Oswald] font-semibold uppercase">My NFTt</span></Link>

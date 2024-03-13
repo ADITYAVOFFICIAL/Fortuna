@@ -161,3 +161,25 @@ button[disabled] {
 .logo{
   width: 500px !important;
 }
+.top-nfts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.nft-item {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.nft-item img {
+  width: 100%;
+  height: auto;
+}
+
+.nft-details {
+  padding-top: 10px;
+}
+
+/* Adjust styling as needed */
