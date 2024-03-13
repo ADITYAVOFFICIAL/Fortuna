@@ -13,7 +13,13 @@
 
 ## ✨ Introduction 
 
-![Fortuna Logo](<img alt = "Fortuna Logo" width="250" src = "./src/assets/Fortuna.png">)
+![Fortuna Logo](<p align="center">
+  <a href="https://unfold-2023-dev-b64b.vercel.app">
+    <img alt = "Fortuna Logo" width="250" src = "./src/assets/Fortuna.png">
+  </a>
+</p>
+<h1 align="center" >Fortuna: Redifining Gifting </h1>
+)
 
 Fortuna empowers you to:
 
