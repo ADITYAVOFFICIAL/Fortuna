@@ -162,68 +162,12 @@ Developers and emergency services professionals who are interested in enhancing 
  ## 💻 Current Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Django" height="30" width="70" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="React" height="30" width="70" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw3zDTk-jcZSdJ4wAYMp33Cv&ust=1710411455453000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC_8KuB8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="NODEJS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27728%2Fnode-js&psig=AOvVaw1ZbaS60lqUwHqREMNx7W2l&ust=1710411490853000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDGlryB8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="SOLIDITY" height="60" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ASolidity_logo.svg&psig=AOvVaw1DxEC8n2i2ufbPWdsEk4wY&ust=1710411512647000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLif28aB8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Shardeum" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnweb3.io%2Fteams%2Fshardeum%2F&psig=AOvVaw1jyUgIY6OIPk89GaaB1B23&ust=1710411537244000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDCrtKB8YQDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Avalanche" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.diadata.org%2Fweb3-builder-hub%2Ftestnets%2Favalanche-testnets%2F&psig=AOvVaw27t3rHLP2N1ARh7HSqTfq9&ust=1710411559545000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCtlN2B8YQDFQAAAAAdAAAAABAE">
 </div>
-
-<div><h2><strong>Developers of this repository 🔻</strong></h2></div>
-
-<table align="center">
-  <tr align="center">
-    <td>
-
-      **ΛDIƬYΛ VΣЯMΛ**
-
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png" height="120" alt="Aditya Verma">
-      </p>
-      <p align="center">
-        <a href="https://github.com/ADITYAVOFFICIAL"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
-        <a href="https://www.linkedin.com/in/aditya-verma-real/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
-        <a href="https://medium.com/@adityaver"><img src="https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/></a>
-      </p>
-    </td>
-    <td>
-
-      𝗦𝗮𝗵𝗶𝗹 𝗔𝗱𝗵𝗶𝗸𝗮𝗿𝗶
-
-      <p align="center">
-        <img src="https://avatars.githubusercontent.com/u/116698850?v=4" height="120" alt="Sahil Adhikari">
-      </p>
-      <p align="center">
-        <a href="https://github.com/Sahilopl"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
-        <a href="https://www.linkedin.com/in/sahil-adhikari-57b445250/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
-      </p>
-    </td>
-    <td>
-
-      Adityasankar Sengupta
-
-      <p align="center">
-        <img src="https://avatars.githubusercontent.com/u/112703194?v=4" height="120" alt="Adityasankar Sengupta">
-      </p>
-      <p align="center">
-        <a href="https://github.com/adityasankar5"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
-        <a href="https://www.linkedin.com/in/adityasankar-sengupta/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
-      </p>
-    </td>
-    <td>
-
-      Vishal Nair
-
-      <p align="center">
-        <img src="https://avatars.githubusercontent.com/u/112796398?v=4" height="120" alt="Vishal Nair">
-      </p>
-      <p align="center">
-        <a href="https://github.com/Whis2903"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
-        <a href="https://www.linkedin.com/in/vishal-mohan-nair-6130a1177/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
  ## Current Contributors 🔻
 <div align="center">
