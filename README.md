@@ -159,71 +159,70 @@ Fortuna empowers you to:
 
 Developers and emergency services professionals who are interested in enhancing the Fortuna system are encouraged to contribute. To get involved, simply fork the repository and submit a pull request with your proposed changes. We value your contributions and appreciate your efforts in making Fortuna even more effective in emergency situations. Together, we can continually improve and optimize the system to better serve the needs of emergency services and the communities they protect.
 <br>
-  ##  TECHNOLOGIES USED
-
-[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,solidity,&theme=light)](https://skills.thijs.gg)
+ ## 💻 Current Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Django" height="30" width="70" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg">
+</div>
 
 <div><h2><strong>Developers of this repository 🔻</strong></h2></div>
 
 <table align="center">
-<tr align="center">
-<td>
+  <tr align="center">
+    <td>
 
-**ΛDIƬYΛ VΣЯMΛ**
+      **ΛDIƬYΛ VΣЯMΛ**
 
-<p align="center">
-<img src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png"  height="120" alt="Aditya Verma">
-</p>
-<p align="center">
-<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aditya-verma-real/">
-<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
-</a>
-<a href = "https://medium.com/@adityaver">
-<img src = "https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/>
-</a>
-</p>
-</td>
-<td>
-𝗦𝗮𝗵𝗶𝗹 𝗔𝗱𝗵𝗶𝗸𝗮𝗿𝗶
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png" height="120" alt="Aditya Verma">
+      </p>
+      <p align="center">
+        <a href="https://github.com/ADITYAVOFFICIAL"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
+        <a href="https://www.linkedin.com/in/aditya-verma-real/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
+        <a href="https://medium.com/@adityaver"><img src="https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/></a>
+      </p>
+    </td>
+    <td>
 
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/116698850?v=4"  height="120" alt="Aryan Raj">
-</p>
-<p align="center">
-<a href = "https://github.com/Sahilopl"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sahil-adhikari-57b445250/">
-<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
-</a>
-</p>
-</td>
-</table>
-<td>
-Adityasankar Sengupta
+      𝗦𝗮𝗵𝗶𝗹 𝗔𝗱𝗵𝗶𝗸𝗮𝗿𝗶
 
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/112703194?v=4"  height="120" alt="Aryan Raj">
-</p>
-<p align="center">
-<a href = "https://github.com/adityasankar5"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/adityasankar-sengupta/">
-<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
-</a>
-</p>
-</td>
-<td>
-Vishal Nair
+      <p align="center">
+        <img src="https://avatars.githubusercontent.com/u/116698850?v=4" height="120" alt="Sahil Adhikari">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Sahilopl"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
+        <a href="https://www.linkedin.com/in/sahil-adhikari-57b445250/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
+      </p>
+    </td>
+    <td>
 
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/112796398?v=4"  height="120" alt="Aryan Raj">
-</p>
-<p align="center">
-<a href = "https://github.com/Whis2903"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/vishal-mohan-nair-6130a1177/">
-<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
-</a>
-</p>
-</td>
+      Adityasankar Sengupta
+
+      <p align="center">
+        <img src="https://avatars.githubusercontent.com/u/112703194?v=4" height="120" alt="Adityasankar Sengupta">
+      </p>
+      <p align="center">
+        <a href="https://github.com/adityasankar5"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
+        <a href="https://www.linkedin.com/in/adityasankar-sengupta/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
+      </p>
+    </td>
+    <td>
+
+      Vishal Nair
+
+      <p align="center">
+        <img src="https://avatars.githubusercontent.com/u/112796398?v=4" height="120" alt="Vishal Nair">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Whis2903"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="36" height="36"/></a>
+        <a href="https://www.linkedin.com/in/vishal-mohan-nair-6130a1177/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
  ## Current Contributors 🔻
