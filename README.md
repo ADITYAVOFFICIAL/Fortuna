@@ -84,7 +84,7 @@ Fortuna empowers you to:
 15. Enhancing Features (Optional):
     - Consider incorporating virtual spinner games or leaderboards to further elevate the gifting experience.
 
-16. TOP NFTs Display:
+16. Top NFTs Display:
     - Highlighting the top NFTs from the OpenSea marketplace, showcasing the best offerings in the market.
 
 <br>
@@ -162,7 +162,7 @@ Developers and emergency services professionals who are interested in enhancing 
  ## 💻 Current Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="React" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="NODEJS" height="50" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img align="center" alt="SOLIDITY" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png">
   <img align="center" alt="Shardeum" height="40" width="40" src="https://lw3-teams-logos.s3.us-east-2.amazonaws.com/Shardeum-team-logo">
