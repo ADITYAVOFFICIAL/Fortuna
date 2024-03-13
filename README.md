@@ -18,7 +18,6 @@
     <img alt = "Fortuna Logo" width="250" src = "./src/assets/Fortuna.png">
   </a>
 </p>
-<h1 align="center" >Fortuna: Redifining Gifting </h1>
 )
 
 Fortuna empowers you to:
