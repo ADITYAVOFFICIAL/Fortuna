@@ -13,7 +13,7 @@
 
 ## ✨ Introduction 
 
-![Fortuna Logo](<insert_image_url_here>)
+![Fortuna Logo](<img alt = "Fortuna Logo" width="250" src = "./src/assets/Fortuna.png">)
 
 Fortuna empowers you to:
 
@@ -74,28 +74,7 @@ Fortuna empowers you to:
 15. Enhancing Features (Optional):
     - Consider incorporating virtual spinner games or leaderboards to further elevate the gifting experience.
 
-## ✅ How Fortuna Works
-
-1. Gift Pool Creation:
-   - Define the total value of digital assets you wish to contribute.
-   - Select the digital assets you want to include (cryptocurrencies, NFTs, etc.).
-
-2. Personalization:
-   - Designate the red envelope's purpose or occasion.
-   - Generate a unique link associated with the gift pool.
-
-3. Sharing the Gift:
-   - Share the unique link with your intended recipients.
-
-4. Recipient Engagement (Optional Security):
-   - Recipients click the link to enter the Fortuna platform.
-   - As an added security layer (optional), you can utilize an NFT to safeguard the pool.
-
-5. Unveiling the Prizes:
-   - Recipients discover the randomized prizes within the gift pool, adding a thrilling element of surprise.
- Fortuna: The Modern Red Envelope Revolution
-
-*Fortuna* redefines gifting by seamlessly blending tradition and technology. It's your gateway to a captivating digital red envelope platform that lets you create, share, and experience the joy of giving in the digital age.
+<br>
 
 ## ✨ Introduction
 
