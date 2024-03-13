@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
 ![Status](https://img.shields.io/website-up-down-green-red/https/fortuna-mavericks.vercel.app/.svg)
-![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Fortunap.svg)
+![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Fortuna.svg)
 ![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Fortuna.svg)
 ![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Fortuna.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
@@ -162,3 +162,10 @@ Developers and emergency services professionals who are interested in enhancing 
   ##  TECHNOLOGIES USED
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,solidity,&theme=light)](https://skills.thijs.gg)
+
+ ## Current Contributors 🔻
+<div align="center">
+  <a href="https://github.com/ADITYAVOFFICIAL/Fortuna/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/Fortuna" />
+</a>
+</div>
