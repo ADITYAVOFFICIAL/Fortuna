@@ -1,7 +1,16 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
+![Status](https://img.shields.io/website-up-down-green-red/https/fortuna-mavericks.vercel.app/.svg)
+![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Fortunap.svg)
+![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Fortuna.svg)
+![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Fortuna.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Fortuna.svg)
+
 <p align="center">
   <a href="fortuna-mavericks.vercel.app">
     <img alt = "Fortuna Logo" width="250" src = "./src/assets/Fortuna.png">
   </a>
+
 </p>
 <h1 align="center" >Fortuna: Redifining Gifting </h1>
 
@@ -74,6 +83,9 @@ Fortuna empowers you to:
 
 15. Enhancing Features (Optional):
     - Consider incorporating virtual spinner games or leaderboards to further elevate the gifting experience.
+
+16. TOP NFTs Display:
+    - Highlighting the top NFTs from the OpenSea marketplace, showcasing the best offerings in the market.
 
 <br>
 
