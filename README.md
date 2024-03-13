@@ -16,7 +16,7 @@
 
   
 </p>
-"Fortuna" redefines gifting by seamlessly blending tradition and technology. It's your gateway to a captivating digital red envelope platform that lets you create, share, and experience the joy of giving in the digital age.
+"Fortuna" redefines gifting by seamlessly blending tradition and technology. It's your gateway to a captivating digital GiftBox platform that lets you create, share, and experience the joy of giving in the digital age.
 <br>
 
 
@@ -26,12 +26,12 @@
 
 Fortuna empowers you to:
 
-- Designate a personalized purpose or occasion for your red envelope.
+- Designate a personalized purpose or occasion for your GiftBox.
 - Generate a unique link to share with your intended recipients.
 - Establish a gift pool with your desired total value of digital assets (cryptocurrencies, NFTs, and more).
 - Optionally, enhance security and exclusivity by securing the gift pool with an NFT.
 - Foster a spirit of generosity by allowing recipients to contribute additional digital assets.
-- Maintain complete transparency with a secure, immutable ledger that tracks all red envelope transactions.
+- Maintain complete transparency with a secure, immutable ledger that tracks all GiftBox transactions.
 - Embrace a diverse range of digital assets, enabling you to gift cryptocurrencies, NFTs, and more.
 - Experience a user-friendly interface that ensures a smooth gifting and claiming experience for everyone.
 - Access and interact with Fortuna on the go through mobile devices.
@@ -43,7 +43,7 @@ Fortuna empowers you to:
    - Establish a dynamic gift pool by depositing your desired total value of digital assets.
 
 2. Purpose & Link Creation:
-   - Personalize the red envelope by specifying its purpose and generating a unique, shareable link.
+   - Personalize the GiftBox by specifying its purpose and generating a unique, shareable link.
 
 3. Link Distribution:
    - Conveniently share the link with your intended recipients.
@@ -64,7 +64,7 @@ Fortuna empowers you to:
    - Recipients can contribute additional digital assets, boosting the overall value of the gift and fostering a spirit of generosity.
 
 9. Immutable Ledger:
-   - Maintain transparency with a secure, immutable ledger that tracks all red envelope transactions, providing a detailed history of distributions.
+   - Maintain transparency with a secure, immutable ledger that tracks all GiftBox transactions, providing a detailed history of distributions.
 
 10. Multi-Asset Support:
     - Fortuna embraces a diverse range of digital assets, enabling you to gift cryptocurrencies, NFTs, and more.
@@ -79,7 +79,7 @@ Fortuna empowers you to:
     - Access and interact with Fortuna on the go through mobile devices.
 
 14. Personalization:
-    - Create unique and memorable gifts by specifying the red envelope's purpose and contents.
+    - Create unique and memorable gifts by specifying the GiftBox's purpose and contents.
 
 15. Enhancing Features (Optional):
     - Consider incorporating virtual spinner games or leaderboards to further elevate the gifting experience.
@@ -132,7 +132,7 @@ Fortuna empowers you to:
    - Select the digital assets you want to include (cryptocurrencies, NFTs, etc.).
 
 2. Personalization:
-   - Designate the red envelope's purpose or occasion.
+   - Designate the GiftBox's purpose or occasion.
    - Generate a unique link associated with the gift pool.
 
 3. Sharing the Gift:
