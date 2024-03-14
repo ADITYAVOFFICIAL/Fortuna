@@ -36,7 +36,7 @@ const Navbar = () => {
         <div className="border-b-[#2d2c2c] border-b-[2px]">
             <div className="grid grid-cols-12 my-10 md:mx-16 mx-8 font-[Montserrat]">
                 <div className="col-span-4 flex gap-12 items-center justify-between">
-                    <h1 className="text-white text-xl font-[Inter]">
+                    <h1 className="text-white text-xl font-[Oswald]">
                         <Link to={'/'}><img src={logo} style={{ transform: 'scale(1.8)' }} className="logo" /></Link>
                     </h1>
                     <Link to={'/redeem'}><span className="text-[#ee8650] font-[Oswald] hidden md:block font-semibold uppercase">Redeem</span></Link>
@@ -69,9 +69,13 @@ const Navbar = () => {
                         <Popover
                             content={<div className="w-[250px]" onClick={() => setMenuOpen(false)}>
                                 <div className="flex flex-col gap-3">
+                                <Link to={'/'}><span className="text-[#ee8650] font-semibold uppercase">home</span></Link>
                                     <Link to={'/redeem'}><span className="text-[#ee8650] font-semibold uppercase">Redeem</span></Link>
                                     <Link to={'/create-link'}><span className="text-[#ee8650] font-semibold uppercase">Create</span></Link>
+                                    <Link to={'/topnfts'}><span className="text-[#ee8650] font-semibold uppercase">Top nft</span></Link>
+                                    <Link to={'/chatroom'}><span className="text-[#ee8650] font-semibold uppercase">chat room</span></Link>
                                     <Link to={'/my-nft'}><span className="text-[#ee8650] font-semibold uppercase">My NFT</span></Link>
+                                    <Link to={'/team'}><span className="text-[#ee8650] font-semibold uppercase">Team</span></Link>
                                     {/* <Link to={''}><span className="text-[#ee8650] font-semibold uppercase">{tmpAddress.slice(0, 6)}...{tmpAddress.slice(-4)}</span></Link> */}
                                 </div>
                             </div>}
