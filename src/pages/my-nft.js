@@ -133,11 +133,11 @@ const MyNft = () => {
     }
     return (
         <>
-            <h1 className="text-[#ee8650] font-semibold text-xl uppercase">My NFT</h1>
+            <h1 className="text-[#ee8650] glow-text font-semibold text-xl uppercase">My NFT</h1>
             <div className="my-6">
                 <div className="mx-18">
                     <form onSubmit={handleFormSubmit}>
-                        <label className="text-white text-sm font-semibold uppercase">Address</label>
+                        <label className="text-[#ee8650] text-sm font-semibold uppercase">Address</label>
                         <input value={addr} onChange={e => setAddr(e.target.value)} placeholder="0xd15....CfDB" type="text" className="w-full border-[#2d2c2c] border-[1px] focus:outline-none rounded-md p-2 my-2" />
                         <div className="flex w-full justify-end my-4">
                             <div className="flex gap-2 items-center">
