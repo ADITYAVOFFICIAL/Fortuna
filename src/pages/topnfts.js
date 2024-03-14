@@ -48,8 +48,8 @@ const TopNFT = () => {
             <div className="top-nfts-container" data-aos="fade-up">
                 {topNFTs.map(nft => (
                     <div key={nft.identifier} className="nft-item glowy">
-                        <img src={nft.image_url} alt={nft.name || "NFT"} />
-                        <div className="nft-details">
+                        <img style={{borderRadius:"8px"}} src={nft.image_url} alt={nft.name || "NFT"} />
+                        <div className="nft-details" style={{ padding: '10px', backgroundColor: '#333', borderRadius: '8px', marginTop: '10px' }}>
                             <p className='font-[Oswald] tracking-wider'  style={{ color: "#ee8650" }}>Name: {nft.name || "Unnamed NFT"}</p>
                             <p className='font-[Oswald] tracking-wider' style={{ color: "white" , wordBreak: "break-word" }}>Contract: {nft.contract}</p>
                             <p  className='font-[Oswald] tracking-wider' style={{ color: "white" }}>Token Standard: {nft.token_standard}</p>
