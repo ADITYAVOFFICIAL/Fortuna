@@ -140,9 +140,9 @@ const MyNft = () => {
                         <label className="text-[#ee8650] text-sm font-semibold uppercase">Address</label>
                         <input value={addr} onChange={e => setAddr(e.target.value)} placeholder="0xd15....CfDB" type="text" className="w-full border-[#2d2c2c] border-[1px] focus:outline-none rounded-md p-2 my-2" />
                         <div className="flex w-full justify-end my-4">
-                            <div className="flex gap-2 items-center">
-                                <Button onClick={getcontractaddress} className="flex items-center gap-1" size="large"><AiOutlineCopy className="text-xl" /> Contract Address</Button>
-                                <Button className="flex items-center gap-1" size="large" htmlType="submit" type="primary"><HiOutlineSparkles /> Mint</Button>
+                            <div className=" flex gap-2 items-center">
+                                <Button onClick={getcontractaddress}  className="font-[Oswald] tracking-widest flex items-center gap-1" size="large"><AiOutlineCopy className="text-xl" /> Contract Address</Button>
+                                <Button className="glow-button font-bold font-[Oswald] tracking-widest flex items-center gap-1" size="large" htmlType="submit" type="primary"><HiOutlineSparkles /> Mint</Button>
                             </div>
                         </div>
                     </form>
