@@ -138,7 +138,8 @@ button[disabled] {
   font-family: Oswald;
   text-transform: uppercase;
   letter-spacing: 1px;
-  animation: glow 1.2s infinite alternate; /* Define glow animation */
+  text-shadow: 0 0 10px #ee8650; 
+  padding: 15px 5px; /* Define glow animation */
 }
 .glow-button {
   text-transform: uppercase;
@@ -202,4 +203,3 @@ button[disabled] {
   text-transform: uppercase;
   text-shadow: 0 0 10px #ee8650; /* Adjust the shadow size and color as needed */
 }
-
