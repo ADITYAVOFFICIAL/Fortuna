@@ -192,3 +192,14 @@ button[disabled] {
   padding-top: 10px;
 }
 
+.iconn:hover {
+  color: #ee8650;
+}
+.names {
+  font-size: 20px;
+  font-family: Oswald;
+  color: #ee8650;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px #ee8650; /* Adjust the shadow size and color as needed */
+}
+
