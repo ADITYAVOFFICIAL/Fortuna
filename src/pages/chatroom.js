@@ -56,7 +56,7 @@ const ChatRoom = () => {
           placeholder="Type your message..."
           style={{ padding: "10px", marginRight: "15px", borderRadius: "8px", width: "500px" }}
         />
-        <button className='glowy font-[Oswald] tracking-wider' style={{ color: "black", backgroundColor: "#ee8650", border: "none", padding: "5px 10px", borderRadius: "5px" }} onClick={sendMessage}>Send</button>
+        <button className='glowy font-[Oswald] tracking-wider text-xl' style={{ color: "black", backgroundColor: "#ee8650", border: "none", padding: "8px 30px", borderRadius: "5px" }} onClick={sendMessage}>Send</button>
       </div>
     </div>
   );

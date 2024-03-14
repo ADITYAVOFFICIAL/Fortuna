@@ -16,7 +16,7 @@ const Team = () => {
 
     return (
         <div style={{ padding: '20px' }}>
-            <h1 style={{ textAlign: 'center', marginBottom: '30px' }}>Our Team</h1>
+        <h1 data-aos-delay={500} data-aos="fade-up" className="text-white font-semibold flex rowdies-regular items-center text-xl gap-1 uppercase glow-text1 mb-10">TEAM MAVERICKS</h1>
             <Row gutter={16} justify="center">
                 <Col span={6} data-aos="fade-up">
                     <Card
