@@ -41,7 +41,7 @@ const TopNFT = () => {
 
     return (
         <div>
-            <h1 data-aos-delay={500} data-aos="fade-up" className="font-semibold flex rowdies-regular items-center text-4xl gap-1 uppercase mb-5" style={{ color:"#ee8650" }}>
+            <h1 data-aos-delay={500} data-aos="fade-up" className="glow-text1 font-semibold flex rowdies-regular items-center text-4xl gap-1 uppercase mb-5" style={{ color:"#ee8650" }}>
                 <AiFillDollarCircle className="text-4xl" /> TOP NFTs
             </h1>
 
