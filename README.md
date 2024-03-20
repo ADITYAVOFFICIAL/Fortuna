@@ -76,6 +76,9 @@ Fortuna empowers you to:
 
 ## Demo
 <img align="center" alt="Home Page"  src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/home.png">
+<img align="center" alt="TOP NFTS Page"  src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/nft.png">
+<img align="center" alt="TEAM Page"  src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/team.png">
+<img align="center" alt="CREATE Page"  src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/create.png">
 
 
 ## Setting Up Fortuna
