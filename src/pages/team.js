@@ -25,7 +25,7 @@ const Team = () => {
                         style={{ marginBottom: '20px'}}
                     >
                         <Card.Meta style={{fontSize:"17px"}} title={<span className="names">Aditya Verma</span>} description={<>
-                            Project Manager & Developer<br />
+                            Project Manager & Lead Developer<br />
                             <a className='iconn' href="https://github.com/ADITYAVOFFICIAL" target="_blank" rel="noopener noreferrer">GitHub</a> | <a className='iconn' href="https://www.linkedin.com/in/aditya-verma-real/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                         </>} />
                     </Card>
