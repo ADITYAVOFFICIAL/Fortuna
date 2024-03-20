@@ -74,6 +74,10 @@ Fortuna empowers you to:
 
 <br>
 
+## Demo
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+
 ## Setting Up Fortuna
 
 ### Prerequisites:
