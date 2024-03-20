@@ -75,7 +75,7 @@ Fortuna empowers you to:
 <br>
 
 ## Demo
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Home Page" height="100" width="200" src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/home.png">
 
 
 ## Setting Up Fortuna
