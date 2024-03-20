@@ -75,7 +75,7 @@ Fortuna empowers you to:
 <br>
 
 ## Demo
-<img align="center" alt="Home Page" height="100" width="200" src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/home.png">
+<img align="center" alt="Home Page" height="300" width="800" src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Fortuna/main/demos/home.png">
 
 
 ## Setting Up Fortuna
