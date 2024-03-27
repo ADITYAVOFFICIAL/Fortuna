@@ -1,10 +1,12 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
 ![Status](https://img.shields.io/website-up-down-green-red/https/fortuna-mavericks.vercel.app/.svg)
 ![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Fortuna.svg)
 ![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Fortuna.svg)
 ![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Fortuna.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Fortuna.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![GitHub repo size](https://img.shields.io/github/repo-sizeADITYAVOFFICIAL/Fortuna)
+
 
 <p align="center">
   <a href="fortuna-mavericks.vercel.app">
