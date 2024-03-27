@@ -5,7 +5,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Fortuna.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub repo size](https://img.shields.io/github/repo-sizeADITYAVOFFICIAL/Fortuna)
+![GitHub repo size](https://img.shields.io/github/repo-size/ADITYAVOFFICIAL/Fortuna)
 
 
 <p align="center">
