@@ -18,7 +18,7 @@
 
   
 </p>
-"Fortuna" redefines gifting by seamlessly blending tradition and technology. It's your gateway to a captivating digital GiftBox platform that lets you create, share, and experience the joy of giving in the digital age.
+*Fortuna* redefines gifting by seamlessly blending tradition and technology. It's your gateway to a captivating digital GiftBox platform that lets you create, share, and experience the joy of giving in the digital age.
 <br>
 
 
